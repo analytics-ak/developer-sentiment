@@ -1,4 +1,8 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/analytics-ak/developer-sentiment/blob/main/developer-sentiment.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/analytics-ak/developer-sentiment/HEAD)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/analytics-ak/developer-sentiment/blob/main/developer-sentiment.ipynb)
+
+
 # Developer Sentiment Analysis
 
 ## Project Overview
