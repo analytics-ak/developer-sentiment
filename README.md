@@ -1,4 +1,4 @@
-# Developer Sentiment Analysis (EDA)
+# Developer Sentiment Analysis
 
 ## Project Overview
 This project takes a closer look at over **4.6 million Stack Overflow posts** to figure out what really makes developers engage with a topic.  
