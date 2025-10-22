@@ -79,22 +79,22 @@ For example, “Work” is the 3rd most used tag but ranks 24th in score.
 5. Treatment (7.90)  
 **Work Tag Score:** 4.60 (Low)
 
-![Work Tag Word Cloud](work_tag_wordcloud.png)
-
+![Work Tag Word Cloud](img2.png)
+![Work Tag Word Cloud](img3.png)
 
 ### Deep Dive on “Work” Tag
 We analyzed around 360k posts tagged “Work.”  
 Common words included: *just, like, people, time, know, work, job, company.*  
 These are simple and practical — not emotional — which explains their lower engagement.
 
-![Work Tag Word Cloud](work_tag_wordcloud.png)
+![Work Tag Word Cloud](img4.png)
 
 ### Top 30 Words in All Posts
 After cleaning links, symbols, and stopwords, the most frequent words were:  
 **just, like, dont, people, im, think, time, know, really, good.**  
 This shows that most posts are personal and conversational in tone.
 
-![Work Tag Word Cloud](work_tag_wordcloud.png)
+![Work Tag Word Cloud](img5.png)
 
 ---
 
